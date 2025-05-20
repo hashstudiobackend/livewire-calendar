@@ -22,7 +22,7 @@
     ],
     "require": {
         "php": "^8.0|^8.2",
-        "livewire/livewire": "^2.6"
+        "livewire/livewire": "^3.6"
     },
     "require-dev": {
         "orchestra/testbench": "^5.0|^6.0",
